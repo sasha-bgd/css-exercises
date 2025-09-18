@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.pinkish-class {
+    background-color: #f8b1bd;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#the-blue-text {
+    color:#0101f9;
+    font-size: 36px;
+}
+
+#the-green-text {
+    background-color: #90ee90;
+    font-weight: bold;
+}
+
+.smaller-font {
+    font-size: 24px;
+}
